@@ -23,6 +23,8 @@ I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Admi
  <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
+
+
 ### Cloud
 
 <p float="left">
@@ -34,6 +36,8 @@ I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Admi
   </a>
  </p>
   
+
+
 ### DevOps Tools
   
 <p align="left">  
@@ -69,6 +73,8 @@ I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Admi
     </a> 
  </p>
 
+
+
 ### Monitoring
   
   <a href="https://prometheus.io/" target="_blank" >
@@ -83,7 +89,11 @@ I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Admi
   
 </p>
 
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratul99&show_icons=true&locale=en&layout=compact" alt="pratul99" /></p>
+
+
 
 ### 📫 Connect with me !!🤙
 
