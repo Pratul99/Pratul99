@@ -1,22 +1,100 @@
-<h1 align="center">Hi 👋, I'm Pratul Bhatt</h1>
-<h3 align="center">A passionate DevOps enthusiast from India</h3>
+### Hi there 👋
 
-- 👨‍💻 All of my Certifications are available at [https://www.credly.com/users/pratul-bhatt/badges](https://www.credly.com/users/pratul-bhatt/badges)
+<!--
+**Pratul99/Pratul99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-- 💬 Ask me about **DevOps, Jenkins, Docker, K8s, Terraform**
+I am [Pratul](https://www.linkedin.com/in/pratul-bhatt-b3b92b14a), A passionate DevOps enthusiast from [🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp; passionate about Cloud based technologies and DevOps methodology with 2+ years of professional onsite as well as remote working experience. 🎯
 
-- 📫 How to reach me **pratulbhatt18@gmail.com**
+I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Administrator Associate & HashiCorp Certified: Terraform Associate 🚀
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rck7L6UEk_47HB-BqpU_HrT_TcPAi3qC/view?usp=sharing](https://drive.google.com/file/d/1rck7L6UEk_47HB-BqpU_HrT_TcPAi3qC/view?usp=sharing)
+<p float="left">
+  <a href="https://www.credly.com/badges/9fe440e7-2366-41ef-a495-672046e7c5f5/public_url" target="_blank" >
+    <img src="https://media.licdn.com/dms/image/C5622AQHG_9PBlyRVAw/feedshare-shrink_1280/0/1646366633910?e=1698278400&v=beta&t=d-zAldKyxvzLPN-slhIz7Hu7_FJtdA6AjP4IkmstEJ0"  height="75" />
+  </a> 
+  <a href="https://www.credly.com/badges/adb1ca9f-797f-439a-a2dd-f56b3d3eedb6/public_url" target="_blank" >
+    <img src="https://media2.giphy.com/media/xJk6iEX5XIiSgmirgD/giphy.gif?cid=ecf05e47h74ai9mrd3quxfimxhi8ca6r40r785r5hs6t05zf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  height="75" />
+  </a>
+  <a href="https://www.credly.com/badges/6de2008d-d164-4453-a2be-76e25258984f/public_url" target="_blank" >
+    <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"  height="75" />
+  </a>
+ </p>
 
-- ⚡ Fun fact **I can work all day if I don't get any errors.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratul-bhatt-b3b92b14a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratul-bhatt-b3b92b14a/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p float="left">
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://d2gbo5uoddvg5.cloudfront.net/images/Logo_aws.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://cdn.dribbble.com/users/3847465/screenshots/10765125/media/e5f08353be5952c5bfd4a759903d5c5a.gif"  height="80" /> 
+  </a>
+ </p>
+  
+### DevOps
+  
+<p align="left"> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    </a> 
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+    </a> 
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+ </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratul99&show_icons=true&locale=en&layout=compact" alt="pratul99" /></p>
+  
+### Databases and Monitoring
+  
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+  <a href="https://www.influxdata.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
+  </a>
+    <a href="https://www.postgresql.org" target="_blank" >
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
+  </a>
+  </a>
+    <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
+  </a>
+  
+</p>
+
+
+### 📫 Connect with me !!🤙
+
+ - My [Resume](https://drive.google.com/file/d/1rck7L6UEk_47HB-BqpU_HrT_TcPAi3qC/view?usp=drive_link) 🌐
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/pratul-bhatt-b3b92b14a) 👨🏻‍💻
+ - Follow me on [GitHub](https://github.com/Pratul99/Pratul99.git) 😸
+ - Shoot Me an [Email](mailto:pratulbhatt18@gmail.com) 💌
