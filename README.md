@@ -10,35 +10,30 @@ I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Admi
 
 <p float="left">
   <a href="https://www.credly.com/badges/9fe440e7-2366-41ef-a495-672046e7c5f5/public_url" target="_blank" >
-    <img src="https://media.licdn.com/dms/image/C5622AQHG_9PBlyRVAw/feedshare-shrink_1280/0/1646366633910?e=1698278400&v=beta&t=d-zAldKyxvzLPN-slhIz7Hu7_FJtdA6AjP4IkmstEJ0"  height="75" />
+    <img src="https://media.licdn.com/dms/image/C5622AQHG_9PBlyRVAw/feedshare-shrink_1280/0/1646366633910?e=1698278400&v=beta&t=d-zAldKyxvzLPN-slhIz7Hu7_FJtdA6AjP4IkmstEJ0"  height="85" />
   </a> 
   <a href="https://www.credly.com/badges/adb1ca9f-797f-439a-a2dd-f56b3d3eedb6/public_url" target="_blank" >
-    <img src="https://media2.giphy.com/media/xJk6iEX5XIiSgmirgD/giphy.gif?cid=ecf05e47h74ai9mrd3quxfimxhi8ca6r40r785r5hs6t05zf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  height="75" />
+    <img src="https://media2.giphy.com/media/xJk6iEX5XIiSgmirgD/giphy.gif?cid=ecf05e47h74ai9mrd3quxfimxhi8ca6r40r785r5hs6t05zf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  height="85" />
   </a>
   <a href="https://www.credly.com/badges/6de2008d-d164-4453-a2be-76e25258984f/public_url" target="_blank" >
-    <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"  height="75" />
+    <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"  height="85" />
   </a>
  </p>
 
+### Cloud
 
 <p float="left">
-  <a href="https://python.org/" target="_blank" >
+  <a href="https://aws.amazon.com" target="_blank" >
     <img src="https://d2gbo5uoddvg5.cloudfront.net/images/Logo_aws.gif"  height="90" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" >
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" >
     <img src="https://cdn.dribbble.com/users/3847465/screenshots/10765125/media/e5f08353be5952c5bfd4a759903d5c5a.gif"  height="80" /> 
   </a>
  </p>
   
-### DevOps
+### DevOps Tools
   
-<p align="left"> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-    </a> 
+<p align="left">  
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
     </a> 
@@ -71,8 +66,6 @@ I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Admi
     </a> 
  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratul99&show_icons=true&locale=en&layout=compact" alt="pratul99" /></p>
-  
 ### Databases and Monitoring
   
   <a href="https://prometheus.io/" target="_blank" >
@@ -91,6 +84,7 @@ I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Admi
   
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratul99&show_icons=true&locale=en&layout=compact" alt="pratul99" /></p>
 
 ### 📫 Connect with me !!🤙
 
