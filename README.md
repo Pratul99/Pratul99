@@ -69,7 +69,7 @@ I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Admi
     </a> 
  </p>
 
-### Databases and Monitoring
+### Monitoring
   
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
