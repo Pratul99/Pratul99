@@ -43,10 +43,8 @@ I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Admi
 <p>&nbsp;</p>
 
 ### DevOps Tools
-  
+
 <p align="left">  
-  <!-- GIF -->
-        <img src="https://www.palo-it.com/hubfs/Infinito_DevOps_2-2.gif" width="60" height="60"/>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> 
     </a> 
