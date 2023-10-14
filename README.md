@@ -113,6 +113,6 @@ I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Admi
 
 ### 📫 Connect with me !!🤙
 
- - My [Resume](https://drive.google.com/file/d/1A0pOxZ8MaP8asrPyRrWDcHacmxq2yG1b/view?usp=sharing) 🌐
+ - My [Resume](https://drive.google.com/file/d/1YbkwocZn5_z2HMmrcfTsZoy3dS0FatF4/view?usp=sharing) 🌐
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/pratul-bhatt-b3b92b14a) 👨🏻‍💻
  - Shoot Me an [Email](mailto:pratulbhatt18@gmail.com) 💌
