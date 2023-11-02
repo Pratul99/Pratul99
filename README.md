@@ -10,7 +10,7 @@ I am a Certified: Solutions Architect Associate, Microsoft Certified: Azure Admi
 
 <p float="left">
   <a href="https://www.credly.com/badges/9fe440e7-2366-41ef-a495-672046e7c5f5/public_url" target="_blank" >
-    <img src="https://d2gbo5uoddvg5.cloudfront.net/images/Logo_aws.gif"  height="85" />
+    <img src="https://media.licdn.com/dms/image/C5622AQHG_9PBlyRVAw/feedshare-shrink_1280/0/1646366633910?e=1701907200&v=beta&t=KDMO3R3TDYQqUAxC9J79ZcyG9swmWI7fHDcBF1PzFU4"  height="85" />
   </a> 
   <a href="https://www.credly.com/badges/adb1ca9f-797f-439a-a2dd-f56b3d3eedb6/public_url" target="_blank" >
     <img src="https://media2.giphy.com/media/xJk6iEX5XIiSgmirgD/giphy.gif?cid=ecf05e47h74ai9mrd3quxfimxhi8ca6r40r785r5hs6t05zf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  height="85" />
